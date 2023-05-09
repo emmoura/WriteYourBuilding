@@ -12,7 +12,7 @@
         <h2>Leave a message, get a building!</h2>
           
       <form 
-        action="https://formsubmit.co/emmoura@edu.ulisboa.pt" 
+        action="https://formsubmit.co/84e179df529051d9f2dff48a7cd85035" 
         method="POST"
       >
       <textarea id="description" name = "description" required>
